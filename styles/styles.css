@@ -271,7 +271,7 @@ body{
     display: flex;
     justify-content: center;
 }
-.text-cente-seis{
+.text-center-seis{
     text-align: center;
     font-family: 'Yatra One', cursive;
 }
@@ -310,6 +310,45 @@ body{
 
 
 /*estilos dia 7*/
+
+.body1-siete{
+    background-color: #ffd8ea;
+}
+.text-center-siete{
+    display: flex;
+    justify-content: center;
+}
+.bienvenida-siete{
+    color: #592f61;
+    font-family: 'Viga', sans-serif;
+}
+.presentado-siete{
+    color: #d24878;
+    font-family: 'Viga', sans-serif;
+}
+.parrafo-siete{
+    color: #8d376c;
+    font-family: 'Viga', sans-serif;
+}
+.sesion-siete{
+    color: #ff778b;
+}
+.lista-siete{
+    color: #ff778b;
+    font-size: 130%;
+    font-family: 'Kanit', sans-serif;
+}
+.text-boton-siete{
+    background-color: #ffb595;
+    font-family: 'Kanit', sans-serif;
+}
+
+
+
+
+
+
+
 
 /*estilos dia 8*/
 
