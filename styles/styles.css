@@ -14,16 +14,32 @@ background  #fae7d0
     background-color: #fae7d0;
 }
 .bg-color{
-    background-color: #f39d31;
+    background-color: #ffc783;
 }
 .bienvenida{
     color: #6a2535;
+    font-family: 'Federant', cursive;
 }
 .parrafo{
     color: #c36437;
+    font-family: 'Kiwi Maru', serif;
 }
 .presentado{
     color: #943d38;
+    font-family: 'Federant', cursive;
+}
+.text{
+    font-size: xx-large;
+    color: #be6e0b;
+}
+.text:hover{
+    color: #490b1d;
+}
+.color{
+    background-color: #ffceb7;
+}
+.color:hover{
+    background-color: #f39d31;
 }
 .text-center{
     text-align: center;
@@ -31,10 +47,24 @@ background  #fae7d0
 }
 .text-boton{
     background-color: #f39d31;
+    font-family: 'Kiwi Maru', serif;
+    font-size: larger;
 
 }
 .text-boton:hover{
-    background-color: #490d2a;
+    background-color: #f7d46d;
+    font-family: 'Kiwi Maru', serif;
+    font-style: oblique;
+}
+.text-boton-2{
+    background-color: #c36437;
+    font-family: 'Federant', cursive;
+    font-size: larger;
+}
+.text-boton-2:hover{
+    background-color: #f39d31;
+    font-family: 'Federant', cursive;
+    font-style: oblique;
 }
 
 
