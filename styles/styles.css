@@ -213,7 +213,57 @@ body{
 
 
 
+
+
+
+
 /*estilos dia 5*/
+
+.body1-cinco{
+    background-color: #d5e2d8;
+}
+.body2-cinco{
+    background-color: #d5e2d8;
+}
+.text-center-cinco{
+    text-align: center;
+}
+
+.boton1-cinco{
+    display: block;
+    text-align: center;
+}
+.text-boton1-cinco{
+    background-color: #a7c7f8;
+}
+.boton2-cinco{
+    display: block;
+    text-align: center;
+}
+.text-boton2-cinco{
+    background-color: #a7c7f8;
+}
+.text-primario-cinco{
+    color: #e84d5b;
+}
+.parrafo-cinco{
+    color: #9b1717;
+}
+.light-cinco{
+    background-color: #c0eeae;
+}
+.subtitulo-cinco{
+    color: #26979f;
+}
+.terciario-cinco{
+    color: #21a70f;
+}
+.sesion-cinco{
+    color: #4b1ec7;
+}
+
+
+
 
 /*estilos dia 6*/
 
