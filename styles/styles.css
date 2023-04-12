@@ -22,6 +22,8 @@ body{
 
 
 
+
+
 /*estilos dia 2*/
 .dia2{
     background-color: #009cb78a;
@@ -47,6 +49,8 @@ body{
     background-color: rgba(172, 240, 140, 0.61);
 
 }
+
+
 
 
 
@@ -91,11 +95,7 @@ body{
     font-style: italic;
 }
 
-
-
 /* html - tresa */ 
-
-
 
 .mitad1-tres{
     background-color: rgb(140, 199, 248);
@@ -171,10 +171,7 @@ body{
     font-size: larger;
 }
 
-
 /*Segundo html*/
-
-
 
 .body2-cuatro{
     background-color: #66677a4f;
@@ -266,6 +263,51 @@ body{
 
 
 /*estilos dia 6*/
+
+.body-index-seis{
+    background-color: #fffbce;
+}
+.boton-index-seis{
+    display: flex;
+    justify-content: center;
+}
+.text-cente-seis{
+    text-align: center;
+    font-family: 'Yatra One', cursive;
+}
+.parrafo-seis{
+    font-style: italic;
+    color: #868e00;
+}
+.bienvenida-seis{
+    color: #212a00;
+}
+.presentado-seis{
+    color:  #4c5900;
+}
+.bg-color-seis{
+    background-color: #cdc900;
+}
+.text-link-seis{
+    color: #cdc900;
+}
+.text-boton-seis{
+    background-color: #cdc900;
+    font-size: large;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+}
+.boton-index-seis{
+    display: flex;
+    color: white;
+}
+
+
+
+
+
+
+
+
 
 /*estilos dia 7*/
 
