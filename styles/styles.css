@@ -1,3 +1,52 @@
+/*Estilos de indes e info
+
+Paleta de Colores:
+
+principal   #6a2535
+secundario  #943d38
+terciario   #c36437
+light       #f39d31
+heavy       #490d2a
+background  #fae7d0
+*/
+
+.body1{
+    background-color: #fae7d0;
+}
+.bg-color{
+    background-color: #f39d31;
+}
+.bienvenida{
+    color: #6a2535;
+}
+.parrafo{
+    color: #c36437;
+}
+.presentado{
+    color: #943d38;
+}
+.text-center{
+    text-align: center;
+    align-items: center;
+}
+.text-boton{
+    background-color: #f39d31;
+
+}
+.text-boton:hover{
+    background-color: #490d2a;
+}
+
+
+
+
+
+
+
+
+
+
+
 /*estilos dia 1*/
 .huno{
     color: #352e5e;
